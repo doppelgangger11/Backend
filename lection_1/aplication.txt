@@ -1,0 +1,15 @@
+I want create a website for cleaning the computers, where users can apply to clean up they computers (cooling system or OS cleaning).
+
+Entities: User, Cleaner, Moderator, Admin, Information of user's computer, 
+
+As a User, I can create request for cleaning
+
+As a User, I can see all my requests
+
+As a User, I can chatting with my master
+
+As a User, I can watching for cleaning my computer
+
+As a Moderator, I can see all the users statistics, messages and banning Users or masters
+
+As an Admin, I can do all staff as a Moderator but I can ban a Moderators
